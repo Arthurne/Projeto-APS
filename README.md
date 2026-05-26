@@ -18,10 +18,10 @@ Nosso projeto tem como objetivo desenvolver um sistema utilizando conceitos de E
 
 | Foto | Nome | E-mail |
 |------|------|------|
-| FOTO | Seu Nome | seuemail@email.com |
-| FOTO | Seu Nome | seuemail@email.com |
-| FOTO | Seu Nome | seuemail@email.com |
-| FOTO | Seu Nome | seuemail@email.com |
+| FOTO | Arthur Neto Coutinho da Silva | arthur.coutinho@dcx.ufpb.br |
+| FOTO | João Alisson de Oliveira Freitas | joao.freitas@dcx.ufpb.br |
+| FOTO | Kaany Araújo Feitosa Rolin | Kaany.rolin@dcx.ufpb.br |
+| FOTO | Maria Gabriella de Oliveira Barbosa |  Maria.oliveira@dcx.ufpb.br |
 ---
 
 # Organização do Projeto

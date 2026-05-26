@@ -20,8 +20,8 @@ Nosso projeto tem como objetivo desenvolver um sistema capaz de solucionar probl
 
 | Foto | Nome | E-mail |
 |------|------|------|
-| FOTO | Seu Nome | seuemail@email.com |
-| FOTO | Integrante 2 | email2@email.com |
+| FOTO | Arthur Neto Coutinho da Silva | seuemail@email.com |
+| FOTO | João Alisson De Oliveira Freitas | email2@email.com |
 | FOTO | Integrante 3 | email3@email.com |
 
 ---

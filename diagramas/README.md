@@ -1,2 +1,10 @@
-Diagramas UML do projeto
-Commit changes
+# Diagramas UML
+
+Esta pasta contém os diagramas utilizados no projeto.
+
+## Diagramas
+
+- Diagrama de Classes
+- Diagramas de Sequência
+- Casos de Uso
+- Fluxos do Sistema

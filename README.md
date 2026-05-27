@@ -18,7 +18,7 @@ Nosso projeto tem como objetivo desenvolver um sistema utilizando conceitos de E
 
 | Foto | Nome | E-mail |
 |------|------|------|
-| FOTO | Arthur Neto Coutinho da Silva | arthur.coutinho@dcx.ufpb.br |
+| <img src="imagens/arthur.jpeg" width="100"> | Arthur Neto Coutinho da Silva | arthur.coutinho@dcx.ufpb.br |
 | <img src="imagens/joao.jpeg" width="100"> | João Alisson de Oliveira Freitas | joao.freitas@dcx.ufpb.br |
 | <img src="imagens/kaany.jpeg" width="100"> | Kaany Araújo Feitosa Rolin | Kaany.rolin@dcx.ufpb.br |
 | <img src="imagens/maria.jpeg" width="100"> | Maria Gabriella de Oliveira Barbosa |  Maria.oliveira@dcx.ufpb.br |

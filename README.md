@@ -54,3 +54,13 @@ Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede 
 - Draw.io
 - SQLite
 - IntelliJ IDEA
+
+---
+
+| Documentos                | Entrega  |
+| ------------------------- | -------- |
+| 📁 Configuração do GitHub | Etapa 00 |
+| 📁 Análise do Sistema     | Etapa 01 |
+| 📁 Arquitetura do Sistema | Etapa 02 |
+| 📁 Modelagem de Classes   | Etapa 03 |
+

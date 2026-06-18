@@ -22,6 +22,7 @@ Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede 
 | <img src="imagens/joao.jpeg" width="100"> | João Alisson de Oliveira Freitas | joao.freitas@dcx.ufpb.br |
 | <img src="imagens/kaany.jpeg" width="100"> | Kaany Araújo Feitosa Rolin | Kaany.rolin@dcx.ufpb.br |
 | <img src="imagens/maria.jpeg" width="100"> | Maria Gabriella de Oliveira Barbosa |  Maria.oliveira@dcx.ufpb.br |
+
 ---
 
 # Organização do Projeto
@@ -40,3 +41,16 @@ Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede 
 * Compreensão do Sistema
 * Definição da Arquitetura
 * Modelagem de Classes
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Java
+- Programação Orientada a Objetos (POO)
+- UML
+- GitHub
+- Notion
+- Draw.io
+- SQLite
+- IntelliJ IDEA

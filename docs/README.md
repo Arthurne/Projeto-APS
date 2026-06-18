@@ -1,11 +1,9 @@
 # Documentação do Projeto
 
-Esta pasta contém toda a documentação relacionada ao sistema.
+Esta pasta contém a documentação produzida durante o desenvolvimento do sistema.
 
 ## Conteúdo
 
-- Documento de Arquitetura
-- Relatório de decisões arquiteturais
-- Requisitos do sistema
-- Casos de uso
-- Planejamento do projeto
+* Compreensão do Sistema
+* Documento de Arquitetura
+* Modelagem de Classes

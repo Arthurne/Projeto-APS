@@ -4,13 +4,13 @@
 
 Somos alunos do curso de Sistemas de Informação da Universidade Federal da Paraíba (UFPB).
 
-Fazemos parte de um projeto da disciplina de Programação Orientada a Objetos, ministrada pelo professor Dr. Dorgival Netto.
+Fazemos parte de um projeto da disciplina de Programação Orientada a Objetos, ministrada pelo professor Dr. Dorgival Netto
 
 ---
 
 # Visão Geral do Projeto
 
-Nosso projeto tem como objetivo desenvolver um sistema utilizando conceitos de Engenharia de Software, Programação Orientada a Objetos e arquitetura em camadas.
+Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede de padarias, utilizando conceitos de Programação Orientada a Objetos e arquitetura em camadas. O sistema busca centralizar o controle de estoque, insumos e reposição de materiais, promovendo maior organização e eficiência na gestão da rede
 
 ---
 
@@ -34,9 +34,9 @@ Nosso projeto tem como objetivo desenvolver um sistema utilizando conceitos de E
 
 ---
 
-# Artefatos
+# Artefatos do Projeto
 
-- Documento de Arquitetura
-- Diagramas UML
-- Código Java
-- Relatório do Projeto
+* Criação da Página no GitHub
+* Compreensão do Sistema
+* Definição da Arquitetura
+* Modelagem de Classes

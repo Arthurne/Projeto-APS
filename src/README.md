@@ -1,6 +1,7 @@
 # Código Fonte
 
-Esta pasta contém a implementação do sistema em Java.
+Esta pasta contém a implementação do sistema em Java
+
 
 ## Estrutura
 

@@ -57,10 +57,10 @@ Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede 
 
 ---
 
-| Documentos                | Entrega  |
-| ------------------------- | -------- |
-| 📁 Configuração do GitHub | Etapa 00 |
-| 📁 Análise do Sistema     | Etapa 01 |
-| 📁 Arquitetura do Sistema | Etapa 02 |
-| 📁 Modelagem de Classes   | Etapa 03 |
+| Documentos                                               | Entrega  |
+| -------------------------------------------------------- | -------- |
+| 📁 [Configuração do GitHub](docs/configuracao-github.md) | Etapa 00 |
+| 📁 [Análise do Sistema](docs/analise-sistema.md)         | Etapa 01 |
+| 📁 [Arquitetura do Sistema](docs/arquitetura-sistema.md) | Etapa 02 |
+| 📁 [Modelagem de Classes](docs/modelagem-classes.md)     | Etapa 03 |
 

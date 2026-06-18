@@ -1,10 +1,7 @@
 # Diagramas UML
 
-Esta pasta contém os diagramas utilizados no projeto.
+Esta pasta contém os diagramas desenvolvidos durante a modelagem do sistema.
 
 ## Diagramas
 
-- Diagrama de Classes
-- Diagramas de Sequência
-- Casos de Uso
-- Fluxos do Sistema
+* Diagrama de Classes

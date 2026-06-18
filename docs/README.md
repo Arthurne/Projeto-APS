@@ -1,6 +1,6 @@
 # Documentação do Projeto
 
-Esta pasta contém a documentação produzida durante o desenvolvimento do sistema.
+Esta pasta contém a documentação produzida durante o desenvolvimento do sistema
 
 ## Conteúdo
 

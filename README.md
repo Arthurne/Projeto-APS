@@ -35,6 +35,19 @@ Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede 
 
 ---
 
+## 🛠️ Tecnologias Utilizadas
+
+- Java
+- Programação Orientada a Objetos (POO)
+- UML
+- GitHub
+- Notion
+- Draw.io
+- SQLite
+- IntelliJ IDEA
+
+---
+
 # Artefatos do Projeto
 
 * Criação da Página no GitHub
@@ -51,15 +64,3 @@ Nosso projeto tem como objetivo desenvolver um sistema de gestão para uma rede 
 | 📁 [Arquitetura do Sistema](https://app.notion.com/p/Defini-o-da-Arquitetura-375df68436a5808d930bdaff404cfc1f) | Etapa 02 |
 | 📁 [Modelagem de Classes](https://app.notion.com/p/Modelagem-de-Classes-375df68436a5801b85a8f1962e3109b9) | Etapa 03 |
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- Java
-- Programação Orientada a Objetos (POO)
-- UML
-- GitHub
-- Notion
-- Draw.io
-- SQLite
-- IntelliJ IDEA

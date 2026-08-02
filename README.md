@@ -135,12 +135,13 @@ src
 
 | Documento | Entrega |
 |------------|----------|
-| 📁 [Configuração do GitHub](https://github.com/Arthurne/Projeto-APS) | Etapa 00 |
+| 📁 [Criação da Página no GitHub](https://github.com/Arthurne/Projeto-APS) | Etapa 00 |
 | 📁 [Compreensão do Sistema](https://app.notion.com/p/Compreens-o-do-Sistema-375df68436a580a5b0dce445e2f3371f) | Etapa 01 |
 | 📁 [Definição da Arquitetura](https://app.notion.com/p/Defini-o-da-Arquitetura-375df68436a5808d930bdaff404cfc1f) | Etapa 02 |
 | 📁 [Modelagem de Classes](https://app.notion.com/p/Modelagem-de-Classes-375df68436a5801b85a8f1962e3109b9) | Etapa 03 |
 | 📁 [Padrões de Projeto](https://app.notion.com/p/Padr-es-de-Projeto-397df68436a5801bb1afca6b117e669d) | Etapa 04 |
-
+| 📁 [Diagramas de Sequência](https://app.notion.com/p/Sistema-para-Rede-de-Padarias-375df68436a5801abe2fc6e4240fbc95?p=3a5df68436a580d0bddce879a14cbb19&pm=s) | Etapa 05 |
+| 📁 [Implementação](https://app.notion.com/p/Sistema-para-Rede-de-Padarias-375df68436a5801abe2fc6e4240fbc95?p=3a5df68436a58040a88ac5b588c3fa14&pm=s) | Etapa 06 |
 ---
 
 # 🚀 Como Executar

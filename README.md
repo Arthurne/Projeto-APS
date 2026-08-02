@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/logo-padaria.webp" alt="Logo do Sistema" width="180">
+  <img src="imagens/logopadaria.webp" alt="Logo do Sistema" width="180">
 </p>
 
 <h1 align="center">Sistema de Gestão para Rede de Padarias</h1>

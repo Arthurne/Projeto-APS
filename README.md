@@ -25,35 +25,38 @@ Universidade Federal da Paraíba (UFPB)
 
 Somos alunos do curso de **Sistemas de Informação** da **Universidade Federal da Paraíba (UFPB)**.
 
-Este projeto foi desenvolvido na disciplina de **Programação Orientada a Objetos**, ministrada pelo **Professor Dr. Dorgival Netto**, com o objetivo de aplicar conceitos de engenharia de software, arquitetura em camadas, modelagem UML e padrões de projeto na construção de um sistema real.
+Este projeto foi desenvolvido na disciplina de **Programação Orientada a Objetos**, ministrada pelo **Professor Dr. Dorgival Netto**, com o objetivo de aplicar conceitos de Engenharia de Software, Arquitetura em Camadas, Modelagem UML e Padrões de Projeto na construção de um sistema de gestão para uma rede de padarias.
 
 ---
 
 # 🎯 Visão Geral do Projeto
 
-Nosso projeto tem como objetivo desenvolver um **Sistema de Gestão para uma Rede de Padarias**, utilizando conceitos de **Programação Orientada a Objetos** e **Arquitetura em Camadas**.
+O projeto tem como objetivo desenvolver um **Sistema de Gestão para uma Rede de Padarias**, permitindo centralizar o gerenciamento das unidades da rede e melhorar o controle dos recursos utilizados em cada uma delas.
 
-O sistema busca centralizar o gerenciamento de:
+O sistema busca oferecer:
 
 - Controle de estoque;
-- Controle de insumos;
-- Reposição de materiais;
-- Organização das unidades da rede;
-- Eficiência na gestão operacional.
+- Cadastro e gerenciamento de insumos;
+- Registro de movimentações de entrada e saída;
+- Controle das unidades da rede;
+- Gerenciamento de demandas de reposição;
+- Redução de desperdícios;
+- Maior organização das informações.
 
 ---
 
 # ✨ Funcionalidades
 
-- ✅ Controle de Estoque
-- ✅ Controle de Insumos
-- ✅ Reposição de Materiais
-- ✅ Gestão de Produtos
-- ✅ Gestão de Funcionários
-- ✅ Gestão de Pedidos
-- ✅ Dashboard Administrativo
-
-> **Obs.:** Atualize esta lista conforme as funcionalidades implementadas.
+- ✅ Cadastro de Unidades
+- ✅ Cadastro de Insumos
+- ✅ Adição de Insumos ao Estoque
+- ✅ Registro de Movimentações (Entrada e Saída)
+- ✅ Criação de Demandas de Reposição
+- ✅ Consulta de Estoque por Unidade
+- ✅ Listagem de Demandas de Reposição
+- 🔄 Consulta de Unidade
+- 🔄 Consulta de Insumo
+- 🔄 Persistência de dados utilizando SQLite
 
 ---
 
@@ -74,8 +77,18 @@ Repository
 SQLite
 
 Model representa as entidades do sistema.
-View representa a interface gráfica.
+View representa a interface em console responsável pela interação com o usuário.
 ```
+
+---
+
+# 🧩 Padrões de Projeto Utilizados
+
+O sistema utiliza alguns padrões de projeto para melhorar a organização e facilitar a manutenção do código.
+
+- **MVC (Model-View-Controller):** separação entre interface, regras de negócio e dados.
+- **Factory:** responsável pela criação das implementações dos repositórios.
+- **Strategy:** utilizada para representar os diferentes tipos de movimentação do estoque (Entrada e Saída).
 
 ---
 
@@ -85,12 +98,36 @@ View representa a interface gráfica.
 src
 │
 ├── controller
+├── factory
 ├── model
 ├── repository
 ├── service
+├── strategy
 ├── view
 └── Main.java
 ```
+
+---
+
+# 📦 Principais Classes
+
+- Unidade
+- Insumo
+- Estoque
+- Movimentacao
+- DemandaReposicao
+
+---
+
+# 🔄 Fluxo Básico do Sistema
+
+1. Cadastrar uma unidade.
+2. Cadastrar os insumos.
+3. Adicionar insumos ao estoque da unidade.
+4. Registrar movimentações de entrada e saída.
+5. Criar demandas de reposição quando necessário.
+6. Consultar o estoque das unidades.
+7. Listar as demandas de reposição cadastradas.
 
 ---
 
@@ -107,15 +144,16 @@ src
 
 # 🛠 Tecnologias Utilizadas
 
-- Java
-- Programação Orientada a Objetos (POO)
-- UML
+- Java 21
 - SQLite
 - IntelliJ IDEA
 - Git
 - GitHub
+- UML
 - Notion
 - Draw.io
+- Programação Orientada a Objetos (POO)
+- Arquitetura MVC
 
 ---
 
@@ -142,17 +180,23 @@ src
 | 📁 [Padrões de Projeto](https://app.notion.com/p/Padr-es-de-Projeto-397df68436a5801bb1afca6b117e669d) | Etapa 04 |
 | 📁 [Diagramas de Sequência](https://app.notion.com/p/Sistema-para-Rede-de-Padarias-375df68436a5801abe2fc6e4240fbc95?p=3a5df68436a580d0bddce879a14cbb19&pm=s) | Etapa 05 |
 | 📁 [Implementação](https://app.notion.com/p/Sistema-para-Rede-de-Padarias-375df68436a5801abe2fc6e4240fbc95?p=3a5df68436a58040a88ac5b588c3fa14&pm=s) | Etapa 06 |
+
 ---
 
 # 🚀 Como Executar
+
+Clone o repositório:
 
 ```bash
 git clone https://github.com/Arthurne/Projeto-APS.git
 ```
 
+Em seguida:
+
 1. Abra o projeto no IntelliJ IDEA.
-2. Configure o JDK compatível.
+2. Configure o JDK 21 (ou versão compatível).
 3. Execute a classe `Main.java`.
+4. Utilize o menu do sistema para acessar as funcionalidades disponíveis.
 
 ---
 

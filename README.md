@@ -48,7 +48,7 @@ O sistema busca oferecer:
 # ✨ Funcionalidades
 
 - ✅ Cadastro de Unidades
-- ✅ Cadastro de Insumos
+- ✅ Cadastro de Insumos   
 - ✅ Adição de Insumos ao Estoque
 - ✅ Registro de Movimentações (Entrada e Saída)
 - ✅ Criação de Demandas de Reposição
@@ -64,7 +64,7 @@ O sistema busca oferecer:
 
 O sistema foi desenvolvido utilizando **Arquitetura em Camadas (Layered Architecture)**, separando as responsabilidades da aplicação para facilitar manutenção, escalabilidade e organização do código.
 
-```
+```text
 Controller
      │
      ▼
@@ -84,7 +84,7 @@ View representa a interface em console responsável pela interação com o usuá
 
 # 🧩 Padrões de Projeto Utilizados
 
-O sistema utiliza alguns padrões de projeto para melhorar a organização e facilitar a manutenção do código.
+O sistema utiliza alguns padrões de projeto para melhorar sua organização e manutenção.
 
 - **MVC (Model-View-Controller):** separação entre interface, regras de negócio e dados.
 - **Factory:** responsável pela criação das implementações dos repositórios.
@@ -94,7 +94,7 @@ O sistema utiliza alguns padrões de projeto para melhorar a organização e fac
 
 # 📂 Organização do Projeto
 
-```
+```text
 src
 │
 ├── controller
@@ -121,13 +121,18 @@ src
 
 # 🔄 Fluxo Básico do Sistema
 
-1. Cadastrar uma unidade.
-2. Cadastrar os insumos.
-3. Adicionar insumos ao estoque da unidade.
-4. Registrar movimentações de entrada e saída.
-5. Criar demandas de reposição quando necessário.
-6. Consultar o estoque das unidades.
-7. Listar as demandas de reposição cadastradas.
+O sistema é utilizado por meio de um menu em console com as seguintes opções:
+
+1. Cadastrar Unidade;
+2. Consultar Unidade;
+3. Cadastrar Insumo;
+4. Consultar Insumo;
+5. Adicionar Insumo ao Estoque;
+6. Registrar Movimentação (Entrada/Saída);
+7. Criar Demanda de Reposição;
+8. Consultar Estoque de uma Unidade;
+9. Listar Demandas de Reposição;
+0. Sair do Sistema.
 
 ---
 

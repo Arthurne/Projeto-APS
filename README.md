@@ -123,16 +123,18 @@ src
 
 O sistema é utilizado por meio de um menu em console com as seguintes opções:
 
-1. Cadastrar Unidade;
-2. Consultar Unidade;
-3. Cadastrar Insumo;
-4. Consultar Insumo;
-5. Adicionar Insumo ao Estoque;
-6. Registrar Movimentação (Entrada/Saída);
-7. Criar Demanda de Reposição;
-8. Consultar Estoque de uma Unidade;
-9. Listar Demandas de Reposição;
-00. Sair do Sistema.
+```text
+1 - Cadastrar Unidade
+2 - Consultar Unidade
+3 - Cadastrar Insumo
+4 - Consultar Insumo
+5 - Adicionar Insumo ao Estoque
+6 - Registrar Movimentação (Entrada/Saída)
+7 - Criar Demanda de Reposição
+8 - Consultar Estoque de uma Unidade
+9 - Listar Demandas de Reposição
+0 - Sair
+```
 
 ---
 

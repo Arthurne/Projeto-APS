@@ -132,7 +132,7 @@ O sistema é utilizado por meio de um menu em console com as seguintes opções:
 7. Criar Demanda de Reposição;
 8. Consultar Estoque de uma Unidade;
 9. Listar Demandas de Reposição;
-0. Sair do Sistema.
+00. Sair do Sistema.
 
 ---
 

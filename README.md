@@ -13,7 +13,7 @@ Universidade Federal da Paraíba (UFPB)
 <img src="https://img.shields.io/badge/Java-21-orange">
 <img src="https://img.shields.io/badge/Arquitetura-MVC-blue">
 <img src="https://img.shields.io/badge/Banco-SQLite-003B57">
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen">
+<img src="https://img.shields.io/badge/Status-Em%20Evolução-brightgreen">
 <img src="https://img.shields.io/badge/UFPB-APS-success">
 </p>
 

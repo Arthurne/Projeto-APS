@@ -54,8 +54,8 @@ O sistema busca oferecer:
 - ✅ Criação de Demandas de Reposição
 - ✅ Consulta de Estoque por Unidade
 - ✅ Listagem de Demandas de Reposição
-- 🔄 Consulta de Unidade
-- 🔄 Consulta de Insumo
+- ✅ Consulta de Unidade
+- ✅ Consulta de Insumo
 - 🔄 Persistência de dados utilizando SQLite
 
 ---
